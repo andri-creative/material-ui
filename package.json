@@ -105,7 +105,7 @@
     "google-auth-library": "^9.14.1"
   },
   "devDependencies": {
-    "@argos-ci/core": "^2.8.1",
+    "@argos-ci/core": "^6.2.1",
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
     "@babel/node": "^7.25.0",
@@ -149,7 +149,7 @@
     "concurrently": "^8.2.2",
     "cpy-cli": "^5.0.0",
     "cross-env": "^7.0.3",
-    "danger": "^12.3.3",
+    "danger": "^13.0.8",
     "eslint": "^8.57.1",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^18.0.0",
